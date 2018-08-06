@@ -11,7 +11,7 @@ public class JGrep308 {
 
 	public static void main(String[] args) {
 		if(args.length < 2){
-			System.out.println("错误：重新输入参数");
+			System.out.println("");
 			System.exit(0);
 		}
 		File file = new File(args[0]);

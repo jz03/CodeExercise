@@ -3,7 +3,7 @@ package String.regex;
 import java.util.Scanner;
 
 /*
- * 使用逗号作为定界符
+ *
  */
 public class ScannerDelimiter311 {
 

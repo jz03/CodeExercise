@@ -1,0 +1,8 @@
+/bin/
+/.idea/
+/.settings/
+*.class
+*.jar
+/target/
+*.iml
+.idea/

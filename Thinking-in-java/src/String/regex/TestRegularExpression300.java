@@ -4,7 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /*
- *测试正则表达式
+ *
  */
 public class TestRegularExpression300 {
 	public static void main(String[] args) {
